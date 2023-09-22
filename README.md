@@ -1,6 +1,6 @@
 ![MasterHead](https://i.postimg.cc/MpBs44mZ/header.png)
 <h1 align="center">Welcome! 👋</h1>
-<h3 align="center">A passionate frontend developer from Israel</h3>
+<h3 align="center">I am a passionate software developer from Israel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gwchar2&label=Profile%20views&color=0e75b6&style=flat" alt="gwchar2" /> </p>
 
