@@ -2,7 +2,7 @@
 <h1 align="center">Welcome! 👋</h1>
 <h3 align="center">I am a passionate software developer from Israel</h3>
 <img align="right" alt="Coding" width="400" src="">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gwchar2&label=Profile%20views&color=0e75b6&style=flat" alt="gwchar2" /> </p>
+<p align="left"> <img src="https://img.freepik.com/premium-vector/network-connection-structure-concept-hi-tech-future-communication-web-concept-big-data-visualization_634443-364.jpg?w=1380" alt="gwchar2" /> </p>
 
 - 🔭 I’m currently working on [Java, Kotlin & Gradle Plug-ins](https://github.com/gwchar2/Powbot-Gradle-Script.git)
 
