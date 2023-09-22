@@ -6,10 +6,12 @@
 
 - 🔭 I’m currently working on [Java, Kotlin & Gradle Plug-ins](https://github.com/gwchar2/Powbot-Gradle-Script.git)
 
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/network-connection-structure-concept-hi-tech-future-communication-web-concept-big-data-visualization_634443-364.jpg?w=1380">
+
 - 🌱 I’m currently learning **Java, C/C#/C++, Python, Algorithms, Kotlin & Gradle**
 
 - 👯 I’m looking to collaborate on **Java, Android & Python Projects**
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/network-connection-structure-concept-hi-tech-future-communication-web-concept-big-data-visualization_634443-364.jpg?w=1380">
+
 - 💬 Ask me about **Java, Gradle, Algorithms and Problem Solving**
 
 - 📫 How to reach me **Tommer_T@Hotmail.com**
