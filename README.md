@@ -13,9 +13,8 @@
 - 💬 Ask me about **Java, Gradle, Algorithms and Problem Solving**
 
 - 📫 How to reach me **Tommer_T@Hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/ef/93/6c/ef936cc5bd6060c8cf9571f2d357c4f8.jpg">
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tommer-toledo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tommer-toledo" height="30" width="40" /></a>
 </p>
