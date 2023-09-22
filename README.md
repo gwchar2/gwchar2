@@ -1,7 +1,7 @@
 ![MasterHead](https://i.postimg.cc/MpBs44mZ/header.png)
 <h1 align="center">Welcome! 👋</h1>
 <h3 align="center">I am a passionate software developer from Israel</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*Yb_BsikIKFAtuKj9.gif">
+<img align="right" alt="Coding" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gwchar2&label=Profile%20views&color=0e75b6&style=flat" alt="gwchar2" /> </p>
 
 - 🔭 I’m currently working on [Java, Kotlin & Gradle Plug-ins](https://github.com/gwchar2/Powbot-Gradle-Script.git)
