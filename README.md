@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gwchar2&label=Profile%20views&color=0e75b6&style=flat" alt="gwchar2" /> </p>
 
-- 🔭 I’m currently working on [Java, Kotlin & Gradle Plug-ins](https://github.com/gwchar2/Powbot-Gradle-Script.git)
+- 🔭 I’m currently working on [Kotlin & Gradle Plug-ins](https://github.com/gwchar2/Powbot-Gradle-Script.git)
 
 - 🌱 I’m currently learning **Java, C/C#/C++, Python, Algorithms, Kotlin & Gradle**
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/ef/93/6c/ef936cc5bd6060c8cf9571f2d357c4f8.jpg">
