@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on [Kotlin & Gradle Plug-ins](https://github.com/gwchar2/Powbot-Gradle-Script.git)
 
 - 🌱 I’m currently learning **Java, C/C#/C++, Python, Algorithms, Kotlin & Gradle**
-
 - 👯 I’m looking to collaborate on **Java, Android & Python Projects**
 
 - 💬 Ask me about **Java, Gradle, Algorithms and Problem Solving**
