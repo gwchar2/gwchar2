@@ -5,12 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gwchar2&label=Profile%20views&color=0e75b6&style=flat" alt="gwchar2" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/ef/93/6c/ef936cc5bd6060c8cf9571f2d357c4f8.jpg">
 
-- 🧑🏼‍💻 I’m currently working on [Java, Kotlin & Python/C++ Software & Applications](https://github.com/gwchar2/Powbot-Gradle-Script.git)
-
-- 🌱 I’m currently learning **Java, C/C#/C++, Python, Algorithms**
-- 👯 I’m looking to collaborate on **Desktop Applications & Embedded IoT Projects**
-
-- 💬 Ask me about **Java, C, Algorithms and Problem Solving**
+- 🧑🏼‍💻 I’m currently working on [C#, .Net MAUI, C++ Software & Applications]([https://github.com/gwchar2/ParkSpotTLV.git])
 
 - 📫 How to reach me **Tommer_T@Hotmail.com**
 
