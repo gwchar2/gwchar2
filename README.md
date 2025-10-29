@@ -12,7 +12,7 @@
 
 ## About Me
 - I build reliable, production‑ready software with .NET, C#, C++, and Android.
-- I focus on back‑end and systems work, with a strong interest in geospatial data, databases, and performance.
+- I focus on back‑end and systems work, with a strong interest in back-end development, databases, and performance.
 - I enjoy collaborating on real products and I’m always open to learning new technologies.
 
 ## Current Work
