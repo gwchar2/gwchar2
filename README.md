@@ -120,8 +120,7 @@ Ongoing work and learning around systems programming, networking, and low-level 
 
 ## GitHub Stats
 
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gwchar2&show_icons=true&locale=en&layout=compact" alt="Top languages" /> </p>
-
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gwchar2&show_icons=true&locale=en&layout=compact" alt="Top languages" /> </p> 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=gwchar2&show_icons=true&locale=en" alt="GitHub stats" /> </p>
 
 ## Contact
