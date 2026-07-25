@@ -22,7 +22,7 @@ Currently, I’m preparing to join **Cisco** as a Software Engineer, with a focu
 
 ## Experience & Direction
 
-* **Incoming Software Engineer at Cisco**
+* **Software Engineer at Cisco**
 
   * Systems-oriented software development
   * Debugability and serviceability tooling
