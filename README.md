@@ -14,21 +14,29 @@
 
 ## About Me
 
-I’m a software developer focused on building reliable, production-ready software across back-end systems, networking, hardware-adjacent software, databases, and developer tooling.
+I’m a Software Engineer at Cisco, working on the Silicon One SDK with a focus on serviceability, debuggability, and developer tooling.
 
-I have experience working with C#, .NET, C++, Rust, SQL, hardware simulators, networking concepts, and driver-facing software environments. My work usually sits close to real engineering needs: designing maintainable systems, debugging complex behavior, improving reliability, and building software that interacts with lower-level infrastructure.
+I develop production-grade software in C++ and Python across multiple layers of the Silicon One stack, working closely with hardware, SDK, and architecture teams to build diagnostic and serviceability capabilities for Silicon One ASICs across multiple generations and product families.
 
-Currently, I’m preparing to join **Cisco** as a Software Engineer, with a focus on systems-oriented software, debugability/serviceability tooling, networking concepts, and production feature ownership.
+My work spans SDK/HLD components, NPL-generated interfaces and tables, low-level hardware access, ASIC behavior, and customer-facing diagnostic infrastructure. These capabilities integrate with networking environments including IOS XR, IOS XE, and SONiC, providing visibility into the underlying Silicon One hardware and SDK.
+
+I also work on agentic engineering workflows that automate traditionally manual processes, reducing human-in-the-loop intervention and helping serviceability capabilities remain scalable and reliable as the platform evolves.
+
+My broader interests are centered around systems software, computer architecture, networking, ASIC and SoC environments, developer tooling, and the hardware-software boundary.
 
 ## Experience & Direction
 
 * **Software Engineer at Cisco**
 
-  * Systems-oriented software development
-  * Debugability and serviceability tooling
-  * C++ / Linux / networking-focused development
-  * Production-quality feature design and implementation
-  * Hardware-adjacent software in networking environments
+  * Production-grade C++ and Python development
+  * Serviceability, debuggability, and diagnostic infrastructure
+  * Silicon One ASIC support across multiple generations and product families
+  * Low-level hardware and ASIC-facing software
+  * SDK/HLD and NPL-generated interfaces and tables
+  * Datapath and system-state debugging
+  * Agentic workflows for engineering automation and reduced human-in-the-loop maintenance
+  * Cross-functional work with hardware, SDK, and architecture teams
+  * Integration with IOS XR, IOS XE, and SONiC environments
 
 * **Software Engineer at Rafael Advanced Defense Systems**
 
@@ -76,16 +84,19 @@ Experience working on software that interacts with hardware-oriented environment
 * Runtime behavior simulation
 * Reliability-focused engineering workflows
 
-### Systems & Networking Practice
+### Systems, Networking & ASIC Software
 
-Ongoing work and learning around systems programming, networking, and low-level software concepts.
+Ongoing work and learning around systems programming, networking, and networking silicon.
 
-* TCP / UDP socket programming
-* Blocking vs non-blocking I/O
-* Linux networking fundamentals
+* C++ systems programming
+* Linux development
+* TCP / UDP and networking fundamentals
+* Packet processing and datapath concepts
+* ASIC / NPU architecture
+* SDK and hardware-software interfaces
+* Debugging and observability infrastructure
+* Developer tooling and automation
 * C++ ownership, RAII, move semantics, and concurrency
-* Debugging-oriented software design
-* Network-layer and transport-layer concepts
 
 ## Tech Stack
 
