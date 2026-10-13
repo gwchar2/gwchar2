@@ -18,7 +18,7 @@ I’m a Software Engineer at Cisco, working on the Silicon One SDK with a focus 
 
 I develop production-grade software in C++ and Python across multiple layers of the Silicon One stack, working closely with hardware, SDK, and architecture teams to build diagnostic and serviceability capabilities for Silicon One ASICs across multiple generations and product families.
 
-My work spans SDK/HLD components, NPL-generated interfaces and tables, low-level hardware access, ASIC behavior, and customer-facing diagnostic infrastructure. These capabilities integrate with networking environments including IOS XR, IOS XE, and SONiC, providing visibility into the underlying Silicon One hardware and SDK.
+My work spans SDK/HLD components, NPL-generated interfaces and tables, low-level hardware access, ASIC behavior, and customer-facing diagnostic infrastructure. 
 
 I also work on agentic engineering workflows that automate traditionally manual processes, reducing human-in-the-loop intervention and helping serviceability capabilities remain scalable and reliable as the platform evolves.
 
@@ -36,7 +36,6 @@ My broader interests are centered around systems software, computer architecture
   * Datapath and system-state debugging
   * Agentic workflows for engineering automation and reduced human-in-the-loop maintenance
   * Cross-functional work with hardware, SDK, and architecture teams
-  * Integration with IOS XR, IOS XE, and SONiC environments
 
 * **Software Engineer at Rafael Advanced Defense Systems**
 
