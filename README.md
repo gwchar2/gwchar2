@@ -135,5 +135,4 @@ Ongoing work and learning around systems programming, networking, and networking
 
 ## Contact
 
-* Email: <a href="mailto:Tommer_T@Hotmail.com">[Tommer_T@Hotmail.com](mailto:Tommer_T@Hotmail.com)</a>
 * LinkedIn: <a href="https://www.linkedin.com/in/tommer-toledo">tommer-toledo</a>
